@@ -8,7 +8,7 @@ public class Main {
     }
 
     public static void task1() {
-        System.out.println("задача 1-3");
+        System.out.println("задача 1-3.");
         var dog = 8.0;
         var cat = 3.6;
         var paper = 763789;
